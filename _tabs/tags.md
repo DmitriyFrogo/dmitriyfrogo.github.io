@@ -1,5 +1,6 @@
 ---
+title: Список игр
 layout: tags
-icon: fas fa-tags
-order: 2
+icon: fa-solid fa-gamepad
+order: 1
 ---
