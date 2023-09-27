@@ -41,6 +41,7 @@ order: 2
 - [Escape Academy: Escape From Anti-Escape Island (PC)](/tags/escape-academy-escape-from-anti-escape-island-pc)
 - [Escape Academy: Escape From the Past (PC)](/tags/escape-academy-escape-from-the-past-pc)
 - [Escape First Alchemist (PC)](/tags/escape-first-alchemist-pc)
+- [Escape From Mystwood Mansion (PC)](/tags/escape-from-mystwood-mansion-pc)
 - [F-Theta (NES)](/tags/f-theta-nes)
 - [Faxanadu (NES)](/tags/faxanadu-nes)
 - [Felix the Cat (NES)](/tags/felix-the-cat-nes)
