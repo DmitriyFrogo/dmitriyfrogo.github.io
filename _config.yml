@@ -23,7 +23,7 @@ title: DmitriyFrogo # the main title
 tagline: Список проведенных стримов # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Список проведенных стримов какого-то ноунейма с твича
+  https://twitch.tv/DmitriyFrogo
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://dmitriyfrogo.github.io"
