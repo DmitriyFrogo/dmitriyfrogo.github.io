@@ -1,8 +1,8 @@
 #  The contact options.
 
 - type: twitch
-  icon: "fab fa-twitch"
+  icon: "fa-brands fa-twitch"
   
 - type: telegram
-  icon: "fab fa-telegram"
+  icon: "fa-brands fa-telegram"
   
