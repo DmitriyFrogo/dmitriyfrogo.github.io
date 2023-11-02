@@ -70,6 +70,7 @@ order: 2
 + [x] [L'Abbaye des Morts (NES)](/tags/l-abbaye-des-morts-nes)
 + [x] [Little Nightmares (PC)](/tags/little-nightmares-pc)
 + [x] [Little Nightmares II (PC)](/tags/little-nightmares-ii-pc)
++ [x] [Looks Good (PC)](/tags/looks-good-pc)
 + [x] [Lords of Thunder (SCD)](/tags/lords-of-thunder-scd)
 + [x] [Lost in Play (PC)](/tags/lost-in-play-pc)
 + [x] [Luigi's Mansion (NGC)](/tags/luigi-s-mansion-ngc)
