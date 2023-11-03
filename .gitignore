@@ -20,4 +20,6 @@ package-lock.json
 
 # Misc
 assets/js/dist
-commons/games/desktop.ini
+
+# Windows
+desktop.ini
