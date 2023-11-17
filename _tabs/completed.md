@@ -110,6 +110,7 @@ order: 2
 + [x] [The Multi-Medium (PC)](/tags/the-multi-medium-pc)
 + [x] [The Ninja of the 4 Seasons (NES)](/tags/the-ninja-of-the-4-seasons-nes)
 + [x] [The Talos Principle (PC)](/tags/the-talos-principle-pc)
++ [x] [The Talos Principle 2 (PC)](/tags/the-talos-principle-2-pc)
 + [x] [Time on Frog Island (PC)](/tags/time-on-frog-island-pc)
 + [x] [Titanfall 2 (PC)](/tags/titanfall-2-pc)
 + [x] [Undertale (PC)](/tags/undertale-pc)
