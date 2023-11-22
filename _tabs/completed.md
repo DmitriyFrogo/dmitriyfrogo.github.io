@@ -33,6 +33,7 @@ order: 2
 + [x] [Donkey Kong 3 (NES)](/tags/donkey-kong-3-nes)
 + [x] [Donkey Kong Jr. (NES)](/tags/donkey-kong-jr-nes)
 + [x] [DOOM 2D (DOS)](/tags/doom-2d-dos)
++ [x] [Dream (PC)](/tags/dream-pc)
 + [x] [DuckTales 2 (NES)](/tags/ducktales-2-nes)
 + [x] [DuckTales Remastered (PC)](/tags/ducktales-remastered-pc)
 + [x] [E.V.O.: Search for Eden (SNES)](/tags/e-v-o-search-for-eden-snes)
