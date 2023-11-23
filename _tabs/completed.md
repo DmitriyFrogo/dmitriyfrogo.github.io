@@ -84,6 +84,7 @@ order: 2
 + [x] [Mickey's Safari in Letterland (NES)](/tags/mickey-s-safari-in-letterland-nes)
 + [x] [Moon Crystal (NES)](/tags/moon-crystal-nes)
 + [x] [Nalleland (NES)](/tags/nalleland-nes)
++ [x] [Nevermind (PC)](/tags/nevermind-pc)
 + [x] [Nuclear Blaze (PC)](/tags/nuclear-blaze-pc)
 + [x] [Organ Trail Director's Cut (PC)](/tags/organ-trail-director-s-cut-pc)
 + [x] [Paradise Lost (PC)](/tags/paradise-lost-pc)
