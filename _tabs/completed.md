@@ -66,6 +66,7 @@ order: 2
 + [x] [Jets'n'Guns 2 (PC)](/tags/jets-n-guns-2-pc)
 + [x] [Jets'n'Guns Gold (PC)](/tags/jets-n-guns-gold-pc)
 + [x] [Jim Power: The Lost Dimension (NES)](/tags/jim-power-the-lost-dimension-nes)
++ [x] [Karateka (PC)](/tags/karateka-pc)
 + [x] [Kung Fu (NES)](/tags/kung-fu-nes)
 + [x] [Kyatto Ninden Teyandee (NES)](/tags/kyatto-ninden-teyandee-nes)
 + [x] [L'Abbaye des Morts (NES)](/tags/l-abbaye-des-morts-nes)
