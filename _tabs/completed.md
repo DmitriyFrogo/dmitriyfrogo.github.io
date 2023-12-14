@@ -58,6 +58,7 @@ order: 2
 + [x] [Gorogoa (PC)](/tags/gorogoa-pc)
 + [x] [Heisei Tensai Bakabon (NES)](/tags/heisei-tensai-bakabon-nes)
 + [x] [Hell Pie (PC)](/tags/hell-pie-pc)
++ [x] [HROT (PC)](/tags/hrot-pc)
 + [x] [I Am Alive (PC)](/tags/i-am-alive-pc)
 + [x] [Indivisible (NES)](/tags/indivisible-nes)
 + [x] [Infernax (PC)](/tags/infernax-pc)
