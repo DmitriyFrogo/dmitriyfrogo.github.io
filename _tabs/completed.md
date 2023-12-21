@@ -6,6 +6,7 @@ order: 2
 
 + [x] [A Hat in Time (PC)](/tags/a-hat-in-time-pc)
 + [x] [A Hat in Time: Nyakuza Metro (PC)](/tags/a-hat-in-time-nyakuza-metro-pc)
++ [x] [A Little to the Left (PC)](/tags/a-little-to-the-left-pc)
 + [x] [Adventures in the Magic Kingdom (NES)](/tags/adventures-in-the-magic-kingdom-nes)
 + [x] [Alwa's Awakening (NES)](/tags/alwa-s-awakening-nes)
 + [x] [Among the Sleep (PC)](/tags/among-the-sleep-pc)
