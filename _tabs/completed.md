@@ -125,3 +125,4 @@ order: 2
 + [x] [Viewfinder (PC)](/tags/viewfinder-pc)
 + [x] [Wacky Races (NES)](/tags/wacky-races-nes)
 + [x] [Webbed (PC)](/tags/webbed-pc)
++ [x] [Кузя: Новый год (PC)](/tags/кузя-новый-год-pc)
