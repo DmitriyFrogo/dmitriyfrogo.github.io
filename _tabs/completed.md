@@ -11,6 +11,7 @@ order: 2
 + [x] [Alwa's Awakening (NES)](/tags/alwa-s-awakening-nes)
 + [x] [Among the Sleep (PC)](/tags/among-the-sleep-pc)
 + [x] [Atomic Heart (PC)](/tags/atomic-heart-pc)
++ [x] [Ballance (PC)](/tags/ballance-pc)
 + [x] [Batman: Arkham Asylum (PC)](/tags/batman-arkham-asylum-pc)
 + [x] [Bioshock Remastered (PC)](/tags/bioshock-remastered-pc)
 + [x] [Black Mesa (PC)](/tags/black-mesa-pc)
