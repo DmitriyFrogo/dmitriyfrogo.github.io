@@ -49,6 +49,7 @@ order: 2
 + [x] [Faxanadu (NES)](/tags/faxanadu-nes)
 + [x] [Felix the Cat (NES)](/tags/felix-the-cat-nes)
 + [x] [Fire of Rebellion (NES)](/tags/fire-of-rebellion-nes)
++ [x] [First Cut: Samurai Duel (PC)](/tags/first-cut-samurai-duel-pc)
 + [x] [Frog (NES)](/tags/frog-nes)
 + [x] [Front Line (NES)](/tags/front-line-nes)
 + [x] [Full Throttle (DOS)](/tags/full-throttle-dos)
