@@ -109,6 +109,7 @@ order: 2
 + [x] [Super Dodge Ball (NES)](/tags/super-dodge-ball-nes)
 + [x] [Super Mario Land (GB)](/tags/super-mario-land-gb)
 + [x] [Super Mario World (SNES)](/tags/super-mario-world-snes)
++ [x] [Superliminal (PC)](/tags/superliminal-pc)
 + [x] [Teenage Mutant Ninja Turtles: Shredder's Revenge (PC)](/tags/teenage-mutant-ninja-turtles-shredder-s-revenge-pc)
 + [x] [The Complex: Expedition (PC)](/tags/the-complex-expedition-pc)
 + [x] [The Great Gatsby (NES)](/tags/the-great-gatsby-nes)
