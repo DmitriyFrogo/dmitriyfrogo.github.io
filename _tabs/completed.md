@@ -10,6 +10,7 @@ order: 2
 + [x] [Adventures in the Magic Kingdom (NES)](/tags/adventures-in-the-magic-kingdom-nes)
 + [x] [Alwa's Awakening (NES)](/tags/alwa-s-awakening-nes)
 + [x] [Among the Sleep (PC)](/tags/among-the-sleep-pc)
++ [x] [Antichamber (PC)](/tags/antichamber-pc)
 + [x] [Atomic Heart (PC)](/tags/atomic-heart-pc)
 + [x] [Ballance (PC)](/tags/ballance-pc)
 + [x] [Batman: Arkham Asylum (PC)](/tags/batman-arkham-asylum-pc)
