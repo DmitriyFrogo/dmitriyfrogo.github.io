@@ -125,6 +125,7 @@ order: 2
 + [x] [The Talos Principle 2 (PC)](/tags/the-talos-principle-2-pc)
 + [x] [Time on Frog Island (PC)](/tags/time-on-frog-island-pc)
 + [x] [Titanfall 2 (PC)](/tags/titanfall-2-pc)
++ [x] [Trombone Champ (PC)](/tags/trombone-champ-pc)
 + [x] [Undertale (PC)](/tags/undertale-pc)
 + [x] [Valiant Hearts: The Great War (PC)](/tags/valiant-hearts-the-great-war-pc)
 + [x] [Vengeful Guardian: Moonrider (PC)](/tags/vengeful-guardian-moonrider-pc)
