@@ -51,8 +51,8 @@ google_site_verification: # fill in to your verification string
 
 google_analytics:
   id: # fill in your Google Analytics ID
-  
- goatcounter:
+
+goatcounter:
   id: # fill in your Goatcounter ID
 
 # Prefer color scheme setting.
@@ -114,9 +114,9 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # the option for PWA feature (installable)
+  enabled: false # the option for PWA feature (installable)
   cache:
-    enabled: true # the option for PWA offline cache
+    enabled: false # the option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
