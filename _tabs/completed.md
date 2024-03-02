@@ -20,6 +20,7 @@ order: 2
 + [x] [Bloodstained: Ritual of the Night (PC)](/tags/bloodstained-ritual-of-the-night-pc)
 + [x] [Bobl (NES)](/tags/bobl-nes)
 + [x] [Bramble: The Mountain King (PC)](/tags/bramble-the-mountain-king-pc)
++ [x] [Brothers: A Tale of Two Sons Remake (PC)](/tags/brothers-a-tale-of-two-sons-remake-pc)
 + [x] [Castle of Illusion (PC)](/tags/castle-of-illusion-pc)
 + [x] [Castlevania: Aria of Sorrow (GBA)](/tags/castlevania-aria-of-sorrow-gba)
 + [x] [Castlevania: Dawn of Sorrow (NDS)](/tags/castlevania-dawn-of-sorrow-nds)
@@ -133,3 +134,4 @@ order: 2
 + [x] [Wacky Races (NES)](/tags/wacky-races-nes)
 + [x] [Webbed (PC)](/tags/webbed-pc)
 + [x] [Кузя: Новый год (PC)](/tags/кузя-новый-год-pc)
++ [x] [САНЁК (PC)](/tags/санёк-pc)
