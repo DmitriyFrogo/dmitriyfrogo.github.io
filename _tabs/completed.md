@@ -104,6 +104,7 @@ order: 2
 + [x] [Resident Evil 2 (PC)](/tags/resident-evil-2-pc)
 + [x] [Resident Evil 3 (PC)](/tags/resident-evil-3-pc)
 + [x] [Return of the Obra Dinn (PC)](/tags/return-of-the-obra-dinn-pc)
++ [x] [REVEIL (PC)](/tags/reveil-pc)
 + [x] [Road Redemption (PC)](/tags/road-redemption-pc)
 + [x] [Rockin' Kats (NES)](/tags/rockin-kats-nes)
 + [x] [Shovel Knight: Treasure Trove (PC)](/tags/shovel-knight-treasure-trove-pc)
