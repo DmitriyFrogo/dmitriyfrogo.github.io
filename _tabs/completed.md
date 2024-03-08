@@ -108,6 +108,7 @@ order: 2
 + [x] [Road Redemption (PC)](/tags/road-redemption-pc)
 + [x] [Rockin' Kats (NES)](/tags/rockin-kats-nes)
 + [x] [Shovel Knight: Treasure Trove (PC)](/tags/shovel-knight-treasure-trove-pc)
++ [x] [Snufkin: Melody of Moominvalley (PC)](/tags/snufkin-melody-of-moominvalley-pc)
 + [x] [Spyro the Dragon (PS1)](/tags/spyro-the-dragon-ps1)
 + [x] [Stray (PC)](/tags/stray-pc)
 + [x] [Sunset Riders (SMD)](/tags/sunset-riders-smd)
