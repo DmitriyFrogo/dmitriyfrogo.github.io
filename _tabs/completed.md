@@ -111,6 +111,7 @@ order: 2
 + [x] [Snufkin: Melody of Moominvalley (PC)](/tags/snufkin-melody-of-moominvalley-pc)
 + [x] [Spyro the Dragon (PS1)](/tags/spyro-the-dragon-ps1)
 + [x] [Stray (PC)](/tags/stray-pc)
++ [x] [Streets of Rage 4 (PC)](/tags/streets-of-rage-4-pc)
 + [x] [Sunset Riders (SMD)](/tags/sunset-riders-smd)
 + [x] [Super Dodge Ball (NES)](/tags/super-dodge-ball-nes)
 + [x] [Super Mario Land (GB)](/tags/super-mario-land-gb)
