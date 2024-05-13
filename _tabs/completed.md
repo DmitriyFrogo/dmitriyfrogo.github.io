@@ -59,6 +59,7 @@ order: 2
 + [x] [Furi (PC)](/tags/furi-pc)
 + [x] [GET EVEN (PC)](/tags/get-even-pc)
 + [x] [GetsuFumaDen: Undying Moon (PC)](/tags/getsufumaden-undying-moon-pc)
++ [x] [Ghostrunner 2 (PC)](/tags/ghostrunner-2-pc)
 + [x] [Goof Troop (SNES)](/tags/goof-troop-snes)
 + [x] [Gorogoa (PC)](/tags/gorogoa-pc)
 + [x] [Heisei Tensai Bakabon (NES)](/tags/heisei-tensai-bakabon-nes)
