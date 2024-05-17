@@ -96,6 +96,7 @@ order: 2
 + [x] [Nalleland (NES)](/tags/nalleland-nes)
 + [x] [Nevermind (PC)](/tags/nevermind-pc)
 + [x] [Nuclear Blaze (PC)](/tags/nuclear-blaze-pc)
++ [x] [Okaeri (PC)](/tags/okaeri-pc)
 + [x] [Organ Trail Director's Cut (PC)](/tags/organ-trail-director-s-cut-pc)
 + [x] [Paradise Lost (PC)](/tags/paradise-lost-pc)
 + [x] [Perfect Vermin (PC)](/tags/perfect-vermin-pc)
