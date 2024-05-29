@@ -102,6 +102,7 @@ order: 2
 + [x] [Perfect Vermin (PC)](/tags/perfect-vermin-pc)
 + [x] [Psychonauts (PC)](/tags/psychonauts-pc)
 + [x] [Punch A Bunch (PC)](/tags/punch-a-bunch-pc)
++ [x] [PUSS! (PC)](/tags/puss-pc)
 + [x] [Quake (PC)](/tags/quake-pc)
 + [x] [Quake III Arena (PC)](/tags/quake-iii-arena-pc)
 + [x] [Resident Evil 2 (PC)](/tags/resident-evil-2-pc)
