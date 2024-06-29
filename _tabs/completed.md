@@ -29,6 +29,7 @@ order: 2
 + [x] [Catie in MeowmeowLand (PC)](/tags/catie-in-meowmeowland-pc)
 + [x] [Celeste Mario's Zap & Dash! (NES)](/tags/celeste-mario-s-zap-dash-nes)
 + [x] [Choujin Sentai Jetman (NES)](/tags/choujin-sentai-jetman-nes)
++ [x] [Claw Machine Sim (PC)](/tags/claw-machine-sim-pc)
 + [x] [Cuphead (PC)](/tags/cuphead-pc)
 + [x] [Darkwing Duck (NES)](/tags/darkwing-duck-nes)
 + [x] [Deadlight (PC)](/tags/deadlight-pc)
