@@ -1,6 +1,6 @@
 ---
-title: Пройденные игры
-icon: fa-solid fa-circle-check
+title: Пройденные
+icon: fa-solid fa-trophy
 order: 2
 ---
 
