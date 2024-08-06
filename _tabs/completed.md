@@ -129,6 +129,7 @@ order: 2
 + [x] [Super Mario World (SNES)](/tags/super-mario-world-snes)
 + [x] [Superliminal (PC)](/tags/superliminal-pc)
 + [x] [Teenage Mutant Ninja Turtles: Shredder's Revenge (PC)](/tags/teenage-mutant-ninja-turtles-shredder-s-revenge-pc)
++ [x] [Thank Goodness You're Here! (PC)](/tags/thank-goodness-you-re-here-pc)
 + [x] [The Complex: Expedition (PC)](/tags/the-complex-expedition-pc)
 + [x] [The Exit 8 (PC)](/tags/the-exit-8-pc)
 + [x] [The Great Gatsby (NES)](/tags/the-great-gatsby-nes)
