@@ -120,6 +120,7 @@ order: 2
 + [x] [Shift 87 (PC)](/tags/shift-87-pc)
 + [x] [Shovel Knight: Treasure Trove (PC)](/tags/shovel-knight-treasure-trove-pc)
 + [x] [Snufkin: Melody of Moominvalley (PC)](/tags/snufkin-melody-of-moominvalley-pc)
++ [x] [SpongeBob SquarePants: The Cosmic Shake (PC)](/tags/spongebob-squarepants-the-cosmic-shake-pc)
 + [x] [Spyro the Dragon (PS1)](/tags/spyro-the-dragon-ps1)
 + [x] [Stray (PC)](/tags/stray-pc)
 + [x] [Streets of Rage 4 (PC)](/tags/streets-of-rage-4-pc)
