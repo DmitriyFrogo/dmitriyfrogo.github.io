@@ -112,6 +112,7 @@ order: 2
 + [x] [PUSS! (PC)](/tags/puss-pc)
 + [x] [Quake (PC)](/tags/quake-pc)
 + [x] [Quake III Arena (PC)](/tags/quake-iii-arena-pc)
++ [x] [Ready or Not (PC)](/tags/ready-or-not-pc)
 + [x] [Resident Evil 2 (PC)](/tags/resident-evil-2-pc)
 + [x] [Resident Evil 3 (PC)](/tags/resident-evil-3-pc)
 + [x] [Return of the Obra Dinn (PC)](/tags/return-of-the-obra-dinn-pc)
