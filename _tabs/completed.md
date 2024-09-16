@@ -4,6 +4,7 @@ icon: fa-solid fa-trophy
 order: 2
 ---
 
++ [x] [A Dance of Fire and Ice (PC)](/tags/a-dance-of-fire-and-ice-pc)
 + [x] [A Hat in Time (PC)](/tags/a-hat-in-time-pc)
 + [x] [A Hat in Time: Nyakuza Metro (PC)](/tags/a-hat-in-time-nyakuza-metro-pc)
 + [x] [A Little to the Left (PC)](/tags/a-little-to-the-left-pc)
@@ -88,6 +89,7 @@ order: 2
 + [x] [Looks Good (PC)](/tags/looks-good-pc)
 + [x] [Lords of Thunder (SCD)](/tags/lords-of-thunder-scd)
 + [x] [Lost in Play (PC)](/tags/lost-in-play-pc)
++ [x] [Lucky Tower Ultimate (PC)](/tags/lucky-tower-ultimate-pc)
 + [x] [Luigi's Mansion (NGC)](/tags/luigi-s-mansion-ngc)
 + [x] [Mad City (NES)](/tags/mad-city-nes)
 + [x] [Mafia II (PC)](/tags/mafia-ii-pc)
