@@ -76,6 +76,7 @@ order: 2
 + [x] [Infernax (PC)](/tags/infernax-pc)
 + [x] [Infliction: Extended Cut (PC)](/tags/infliction-extended-cut-pc)
 + [x] [Injustice 2 (PC)](/tags/injustice-2-pc)
++ [x] [Iron Meat (PC)](/tags/iron-meat-pc)
 + [x] [Jaws (NES)](/tags/jaws-nes)
 + [x] [Jets'n'Guns 2 (PC)](/tags/jets-n-guns-2-pc)
 + [x] [Jets'n'Guns Gold (PC)](/tags/jets-n-guns-gold-pc)
