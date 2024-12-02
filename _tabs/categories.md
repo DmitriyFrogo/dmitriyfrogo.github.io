@@ -1,5 +1,6 @@
 ---
+title: Категории
 layout: categories
-icon: fas fa-stream
-order: 1
+icon: fa-solid fa-bars-staggered
+order: 3
 ---
