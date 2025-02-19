@@ -16,6 +16,7 @@ order: 2
 + [x] [Atomic Heart (PC)](/tags/atomic-heart-pc)
 + [x] [Ballance (PC)](/tags/ballance-pc)
 + [x] [Batman: Arkham Asylum (PC)](/tags/batman-arkham-asylum-pc)
++ [x] [Behind the Frame: The Finest Scenery (PC)](/tags/behind-the-frame-the-finest-scenery-pc)
 + [x] [Bioshock Remastered (PC)](/tags/bioshock-remastered-pc)
 + [x] [Black Mesa (PC)](/tags/black-mesa-pc)
 + [x] [Blair Witch (PC)](/tags/blair-witch-pc)
