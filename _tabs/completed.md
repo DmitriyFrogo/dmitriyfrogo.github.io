@@ -72,6 +72,7 @@ order: 2
 + [x] [Go Home Annie (PC)](/tags/go-home-annie-pc)
 + [x] [Goof Troop (SNES)](/tags/goof-troop-snes)
 + [x] [Gorogoa (PC)](/tags/gorogoa-pc)
++ [x] [GYLT (PC)](/tags/gylt-pc)
 + [x] [Heisei Tensai Bakabon (NES)](/tags/heisei-tensai-bakabon-nes)
 + [x] [Hell Pie (PC)](/tags/hell-pie-pc)
 + [x] [HROT (PC)](/tags/hrot-pc)
