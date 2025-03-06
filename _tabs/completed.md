@@ -89,6 +89,7 @@ order: 2
 + [x] [Jets'n'Guns 2 (PC)](/tags/jets-n-guns-2-pc)
 + [x] [Jets'n'Guns Gold (PC)](/tags/jets-n-guns-gold-pc)
 + [x] [Jim Power: The Lost Dimension (NES)](/tags/jim-power-the-lost-dimension-nes)
++ [x] [Journey To The Savage Planet (PC)](/tags/journey-to-the-savage-planet-pc)
 + [x] [Karateka (PC)](/tags/karateka-pc)
 + [x] [Kung Fu (NES)](/tags/kung-fu-nes)
 + [x] [Kyatto Ninden Teyandee (NES)](/tags/kyatto-ninden-teyandee-nes)
