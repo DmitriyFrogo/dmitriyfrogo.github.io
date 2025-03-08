@@ -30,6 +30,7 @@ order: 2
 + [x] [Castlevania: Dawn of Sorrow (NDS)](/tags/castlevania-dawn-of-sorrow-nds)
 + [x] [Castlevania: Symphony of the Night (PS1)](/tags/castlevania-symphony-of-the-night-ps1)
 + [x] [Catie in MeowmeowLand (PC)](/tags/catie-in-meowmeowland-pc)
++ [x] [Celeste (PC)](/tags/celeste-pc)
 + [x] [Celeste Mario's Zap & Dash! (NES)](/tags/celeste-mario-s-zap-dash-nes)
 + [x] [Choujin Sentai Jetman (NES)](/tags/choujin-sentai-jetman-nes)
 + [x] [Claw Machine Sim (PC)](/tags/claw-machine-sim-pc)
