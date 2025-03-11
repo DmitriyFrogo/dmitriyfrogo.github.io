@@ -67,6 +67,7 @@ order: 2
 + [x] [Full Throttle (DOS)](/tags/full-throttle-dos)
 + [x] [Full Throttle Remastered (PC)](/tags/full-throttle-remastered-pc)
 + [x] [Furi (PC)](/tags/furi-pc)
++ [x] [Garlic (PC)](/tags/garlic-pc)
 + [x] [GET EVEN (PC)](/tags/get-even-pc)
 + [x] [GetsuFumaDen: Undying Moon (PC)](/tags/getsufumaden-undying-moon-pc)
 + [x] [Ghostrunner 2 (PC)](/tags/ghostrunner-2-pc)
