@@ -161,6 +161,7 @@ order: 2
 + [x] [The Last Shot (PC)](/tags/the-last-shot-pc)
 + [x] [The Little Mermaid (NES)](/tags/the-little-mermaid-nes)
 + [x] [The Many Pieces of Mr. Coo (PC)](/tags/the-many-pieces-of-mr-coo-pc)
++ [x] [The Medium (PC)](/tags/the-medium-pc)
 + [x] [The Multi-Medium (PC)](/tags/the-multi-medium-pc)
 + [x] [The Ninja of the 4 Seasons (NES)](/tags/the-ninja-of-the-4-seasons-nes)
 + [x] [The Talos Principle (PC)](/tags/the-talos-principle-pc)
