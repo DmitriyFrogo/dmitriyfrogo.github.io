@@ -93,6 +93,7 @@ order: 2
 + [x] [Jim Power: The Lost Dimension (NES)](/tags/jim-power-the-lost-dimension-nes)
 + [x] [Journey To The Savage Planet (PC)](/tags/journey-to-the-savage-planet-pc)
 + [x] [Karateka (PC)](/tags/karateka-pc)
++ [x] [KARMA: The Dark World (PC)](/tags/karma-the-dark-world-pc)
 + [x] [Kung Fu (NES)](/tags/kung-fu-nes)
 + [x] [Kyatto Ninden Teyandee (NES)](/tags/kyatto-ninden-teyandee-nes)
 + [x] [L'Abbaye des Morts (NES)](/tags/l-abbaye-des-morts-nes)
