@@ -171,6 +171,7 @@ order: 2
 + [x] [Time on Frog Island (PC)](/tags/time-on-frog-island-pc)
 + [x] [Titanfall 2 (PC)](/tags/titanfall-2-pc)
 + [x] [Trombone Champ (PC)](/tags/trombone-champ-pc)
++ [x] [U.F.O.s (PC)](/tags/u-f-o-s-pc)
 + [x] [Undertale (PC)](/tags/undertale-pc)
 + [x] [Valiant Hearts: The Great War (PC)](/tags/valiant-hearts-the-great-war-pc)
 + [x] [Vengeful Guardian: Moonrider (PC)](/tags/vengeful-guardian-moonrider-pc)
