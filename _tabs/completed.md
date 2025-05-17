@@ -27,6 +27,7 @@ order: 2
 + [x] [Bramble: The Mountain King (PC)](/tags/bramble-the-mountain-king-pc)
 + [x] [Brothers: A Tale of Two Sons Remake (PC)](/tags/brothers-a-tale-of-two-sons-remake-pc)
 + [x] [Carry The Glass (PC)](/tags/carry-the-glass-pc)
++ [x] [Cash Cleaner Simulator (PC)](/tags/cash-cleaner-simulator-pc)
 + [x] [Castle of Illusion (PC)](/tags/castle-of-illusion-pc)
 + [x] [Castlevania: Aria of Sorrow (GBA)](/tags/castlevania-aria-of-sorrow-gba)
 + [x] [Castlevania: Dawn of Sorrow (NDS)](/tags/castlevania-dawn-of-sorrow-nds)
