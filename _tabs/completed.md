@@ -128,6 +128,7 @@ order: 2
 + [x] [Pilot Brothers 2 (PC)](/tags/pilot-brothers-2-pc)
 + [x] [Pilot Brothers 3: Back Side of the Earth (PC)](/tags/pilot-brothers-3-back-side-of-the-earth-pc)
 + [x] [Platform 8 (PC)](/tags/platform-8-pc)
++ [x] [Poco (PC)](/tags/poco-pc)
 + [x] [Psychonauts (PC)](/tags/psychonauts-pc)
 + [x] [Punch A Bunch (PC)](/tags/punch-a-bunch-pc)
 + [x] [PUSS! (PC)](/tags/puss-pc)
