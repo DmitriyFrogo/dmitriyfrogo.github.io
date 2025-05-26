@@ -157,6 +157,7 @@ order: 2
 + [x] [Super Mario Land (GB)](/tags/super-mario-land-gb)
 + [x] [Super Mario World (SNES)](/tags/super-mario-world-snes)
 + [x] [Superliminal (PC)](/tags/superliminal-pc)
++ [x] [Supraland (PC)](/tags/supraland-pc)
 + [x] [Syberia: The World Before (PC)](/tags/syberia-the-world-before-pc)
 + [x] [Taekwon-Do (SNES)](/tags/taekwon-do-snes)
 + [x] [Teenage Mutant Ninja Turtles: Shredder's Revenge (PC)](/tags/teenage-mutant-ninja-turtles-shredder-s-revenge-pc)
