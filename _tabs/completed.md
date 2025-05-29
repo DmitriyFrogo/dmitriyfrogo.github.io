@@ -118,6 +118,7 @@ order: 2
 + [x] [Moon Crystal (NES)](/tags/moon-crystal-nes)
 + [x] [Murdered: Soul Suspect (PC)](/tags/murdered-soul-suspect-pc)
 + [x] [Nalleland (NES)](/tags/nalleland-nes)
++ [x] [Need for Speed: The Run (PC)](/tags/need-for-speed-the-run-pc)
 + [x] [Nevermind (PC)](/tags/nevermind-pc)
 + [x] [Nuclear Blaze (PC)](/tags/nuclear-blaze-pc)
 + [x] [Okaeri (PC)](/tags/okaeri-pc)
