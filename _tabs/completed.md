@@ -82,6 +82,7 @@ order: 2
 + [x] [Hell Pie (PC)](/tags/hell-pie-pc)
 + [x] [HROT (PC)](/tags/hrot-pc)
 + [x] [I Am Alive (PC)](/tags/i-am-alive-pc)
++ [x] [I Frog-ot (PC)](/tags/i-frog-ot-pc)
 + [x] [INDIKA (PC)](/tags/indika-pc)
 + [x] [Indivisible (NES)](/tags/indivisible-nes)
 + [x] [Infernax (PC)](/tags/infernax-pc)
