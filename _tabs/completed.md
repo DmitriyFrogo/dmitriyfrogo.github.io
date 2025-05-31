@@ -88,6 +88,7 @@ order: 2
 + [x] [Infernax (PC)](/tags/infernax-pc)
 + [x] [Infliction: Extended Cut (PC)](/tags/infliction-extended-cut-pc)
 + [x] [Injustice 2 (PC)](/tags/injustice-2-pc)
++ [x] [Into the Breach (PC)](/tags/into-the-breach-pc)
 + [x] [Iron Meat (PC)](/tags/iron-meat-pc)
 + [x] [Is this Game Trying to Kill Me? (PC)](/tags/is-this-game-trying-to-kill-me-pc)
 + [x] [Islets (PC)](/tags/islets-pc)
