@@ -26,6 +26,7 @@ order: 2
 + [x] [Bobl (NES)](/tags/bobl-nes)
 + [x] [Bramble: The Mountain King (PC)](/tags/bramble-the-mountain-king-pc)
 + [x] [Brothers: A Tale of Two Sons Remake (PC)](/tags/brothers-a-tale-of-two-sons-remake-pc)
++ [x] [Call of the Sea (PC)](/tags/call-of-the-sea-pc)
 + [x] [Carry The Glass (PC)](/tags/carry-the-glass-pc)
 + [x] [Cash Cleaner Simulator (PC)](/tags/cash-cleaner-simulator-pc)
 + [x] [Castle of Illusion (PC)](/tags/castle-of-illusion-pc)
@@ -191,4 +192,5 @@ order: 2
 + [x] [Webbed (PC)](/tags/webbed-pc)
 + [x] [While We Wait Here (PC)](/tags/while-we-wait-here-pc)
 + [x] [Кузя: Новый год (PC)](/tags/кузя-новый-год-pc)
++ [x] [ЛИХО ОДНОГЛАЗОЕ (PC)](/tags/лихо-одноглазое-pc)
 + [x] [САНЁК (PC)](/tags/санёк-pc)
