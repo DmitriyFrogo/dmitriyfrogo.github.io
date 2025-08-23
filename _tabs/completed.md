@@ -37,6 +37,7 @@ order: 2
 + [x] [Celeste (PC)](/tags/celeste-pc)
 + [x] [Celeste Mario's Zap & Dash! (NES)](/tags/celeste-mario-s-zap-dash-nes)
 + [x] [Choujin Sentai Jetman (NES)](/tags/choujin-sentai-jetman-nes)
++ [x] [Chronicles of the Wolf (PC)](/tags/chronicles-of-the-wolf-pc)
 + [x] [Claw Machine Sim (PC)](/tags/claw-machine-sim-pc)
 + [x] [CLICKOLDING (PC)](/tags/clickolding-pc)
 + [x] [Crypt Custodian (PC)](/tags/crypt-custodian-pc)
