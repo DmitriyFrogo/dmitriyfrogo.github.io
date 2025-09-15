@@ -47,6 +47,7 @@ order: 2
 + [x] [Darkwing Duck (NES)](/tags/darkwing-duck-nes)
 + [x] [Deadlight (PC)](/tags/deadlight-pc)
 + [x] [Dikki Paingun in: TKO for the Third Reich (NES)](/tags/dikki-paingun-in-tko-for-the-third-reich-nes)
++ [x] [DLC Quest (PC)](/tags/dlc-quest-pc)
 + [x] [Don Doko Don 2 (NES)](/tags/don-doko-don-2-nes)
 + [x] [Donkey Kong (NES)](/tags/donkey-kong-nes)
 + [x] [Donkey Kong 3 (NES)](/tags/donkey-kong-3-nes)
