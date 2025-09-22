@@ -57,6 +57,7 @@ order: 2
 + [x] [DuckTales 2 (NES)](/tags/ducktales-2-nes)
 + [x] [DuckTales Remastered (PC)](/tags/ducktales-remastered-pc)
 + [x] [E.V.O.: Search for Eden (SNES)](/tags/e-v-o-search-for-eden-snes)
++ [x] [Eclipsium (PC)](/tags/eclipsium-pc)
 + [x] [Eliminator Boat Duel (NES)](/tags/eliminator-boat-duel-nes)
 + [x] [Escape Academy (PC)](/tags/escape-academy-pc)
 + [x] [Escape Academy: Escape From Anti-Escape Island (PC)](/tags/escape-academy-escape-from-anti-escape-island-pc)
