@@ -46,6 +46,7 @@ order: 2
 + [x] [Cuphead (PC)](/tags/cuphead-pc)
 + [x] [Darkwing Duck (NES)](/tags/darkwing-duck-nes)
 + [x] [Deadlight (PC)](/tags/deadlight-pc)
++ [x] [Demolition Girl (PS2)](/tags/demolition-girl-ps2)
 + [x] [Dikki Paingun in: TKO for the Third Reich (NES)](/tags/dikki-paingun-in-tko-for-the-third-reich-nes)
 + [x] [DLC Quest (PC)](/tags/dlc-quest-pc)
 + [x] [Don Doko Don 2 (NES)](/tags/don-doko-don-2-nes)
