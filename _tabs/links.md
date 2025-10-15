@@ -9,7 +9,7 @@ order: 5
 <h1>Стриминг</h1>
 <br>
 <a href="https://live.vkvideo.ru/frogo"><img src="/commons/links/vkvideolive.png" alt="VK Video Live"></a>
-<br>
+<br><br><br>
 <a href="https://twitch.tv/DmitriyFrogo"><img src="/commons/links/twitch.png" alt="Twitch"></a>
 <br><br>
 </center>
