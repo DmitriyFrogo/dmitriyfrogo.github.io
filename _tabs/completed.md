@@ -172,6 +172,7 @@ order: 2
 + [x] [Syberia: The World Before (PC)](/tags/syberia-the-world-before-pc)
 + [x] [Taekwon-Do (SNES)](/tags/taekwon-do-snes)
 + [x] [Teenage Mutant Ninja Turtles: Shredder's Revenge (PC)](/tags/teenage-mutant-ninja-turtles-shredder-s-revenge-pc)
++ [x] [Terminator 2D: NO FATE (PC)](/tags/terminator-2d-no-fate-pc)
 + [x] [Thank Goodness You're Here! (PC)](/tags/thank-goodness-you-re-here-pc)
 + [x] [That's not my Neighbor (PC)](/tags/that-s-not-my-neighbor-pc)
 + [x] [The Bridge (PC)](/tags/the-bridge-pc)
