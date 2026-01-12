@@ -27,7 +27,7 @@ order: 5
 <br><br><br>
 <a href="https://t.me/s/dfrogo"><img src="/commons/links/tg-channel.png" alt="Telegram канал"></a>
 <br><br><br>
-<a href="https://t.me/+8XFcxti1vEEyYWUy"><img src="/commons/links/tg-chat.png" alt="Telegram чат"></a>
+<a href="https://t.me/+VByHRFldOxxlY2Ni"><img src="/commons/links/tg-chat.png" alt="Telegram чат"></a>
 <br><br>
 </center>
 
