@@ -1,5 +1,8 @@
 #  The contact options.
 
+- type: vkplay
+  icon: "fa-brands fa-vk"
+
 - type: twitch
   icon: "fa-brands fa-twitch"
   

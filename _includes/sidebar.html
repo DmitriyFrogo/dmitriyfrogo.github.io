@@ -53,6 +53,10 @@
 
     {% for entry in site.data.contact %}
       {% case entry.type %}
+        {% when 'vkplay' %}
+          {%- capture url -%}
+            https://live.vkvideo.ru/frogo
+          {%- endcapture -%}
         {% when 'twitch' %}
           {%- capture url -%}
             https://twitch.tv/DmitriyFrogo
