@@ -100,6 +100,7 @@ order: 2
 + [x] [Iron Meat (PC)](/tags/iron-meat-pc)
 + [x] [Is this Game Trying to Kill Me? (PC)](/tags/is-this-game-trying-to-kill-me-pc)
 + [x] [Islets (PC)](/tags/islets-pc)
++ [x] [Jackal (PC)](/tags/jackal-pc)
 + [x] [Jaws (NES)](/tags/jaws-nes)
 + [x] [Jets'n'Guns 2 (PC)](/tags/jets-n-guns-2-pc)
 + [x] [Jets'n'Guns Gold (PC)](/tags/jets-n-guns-gold-pc)
