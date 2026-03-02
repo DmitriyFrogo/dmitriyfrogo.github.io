@@ -25,9 +25,7 @@ order: 5
 <br><br><br>
 <a href="https://retroachievements.org/user/Frogo"><img src="/commons/links/retroachievements.png" alt="RetroAchievements"></a>
 <br><br><br>
-<a href="https://t.me/s/dfrogo"><img src="/commons/links/tg-channel.png" alt="Telegram канал"></a>
-<br><br><br>
-<a href="https://t.me/+VByHRFldOxxlY2Ni"><img src="/commons/links/tg-chat.png" alt="Telegram чат"></a>
+<a href="https://t.me/+FjkRbvbNEXdhYWQ6"><img src="/commons/links/tg.png" alt="Telegram чат"></a>
 <br><br>
 </center>
 
