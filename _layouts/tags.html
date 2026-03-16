@@ -2,12 +2,18 @@
 layout: page
 ---
 
-<input
-  id="tag-search"
-  type="text"
-  placeholder="Поиск по играм..."
-  class="form-control mb-3"
-/>
+<div class="input-group mb-4">
+  <span class="input-group-text">
+    <i class="fas fa-search"></i>
+  </span>
+  <input
+    id="tag-search"
+    type="search"
+    class="form-control search-input"
+    placeholder="Поиск по играм..."
+    autocomplete="off"
+  >
+</div>
 
 <div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
 {% assign tags = "" | split: "" %}
@@ -25,12 +31,23 @@ layout: page
 </div>
 
 <script>
-document.getElementById('tag-search').addEventListener('input', function () {
-  const filter = this.value.toLowerCase();
-  const tags = document.querySelectorAll('#tags .tag');
+const searchInput = document.getElementById('tag-search');
+const tags = document.querySelectorAll('#tags .tag');
+
+function normalize(text) {
+  return text
+    .toLowerCase()
+    .replace(/[-_]/g, ' ')   // дефисы → пробелы
+    .replace(/\s+/g, ' ')    // убрать лишние пробелы
+    .trim();
+}
+
+searchInput.addEventListener('input', function () {
+  const filter = normalize(this.value);
 
   tags.forEach(tag => {
-    const text = tag.textContent.toLowerCase();
+    const text = normalize(tag.textContent);
+
     tag.parentElement.style.display =
       text.includes(filter) ? '' : 'none';
   });
