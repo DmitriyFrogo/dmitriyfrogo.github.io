@@ -39,6 +39,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: DmitriyFrogo
   email: # change to your email address
+  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     - https://twitch.tv/DmitriyFrogo # change to your twitter homepage
