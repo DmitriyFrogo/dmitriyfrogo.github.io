@@ -11,8 +11,10 @@ layout:
 tabs:
   # format: <filename_without_extension>: <value>
   home: Главная
-  categories: Категории
   tags: Список игр
+  completed: Пройденные
+  categories: Категории
+  links: Все ссылки
   archives: Архив
   about: О сайте
 

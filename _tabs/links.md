@@ -1,5 +1,4 @@
 ---
-title: Все ссылки
 layout: default
 icon: "fa-solid fa-link"
 order: 5

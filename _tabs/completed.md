@@ -1,5 +1,4 @@
 ---
-title: Пройденные
 icon: fa-solid fa-trophy
 order: 2
 ---
