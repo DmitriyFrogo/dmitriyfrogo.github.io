@@ -58,35 +58,102 @@ layout: page
 const searchInput = document.getElementById('tag-search');
 const tags = document.querySelectorAll('#tags .tag');
 
-const romanMap = {
-  i:1, ii:2, iii:3, iv:4, v:5,
-  vi:6, vii:7, viii:8, ix:9, x:10
-};
-
-function normalize(text) {
-  text = text
+function baseNormalize(text) {
+  return text
     .toLowerCase()
-    .replace(/[-_]/g, ' ')
-    .replace(/\s+/g, ' ')
+    .replace(/[-_]/g,' ')
+    .replace(/[()]/g,' ')
+    .replace(/\s+/g,' ')
     .trim();
+}
 
-  // заменить римские цифры
-  text = text.split(' ').map(word => {
-    if (romanMap[word]) return romanMap[word];
-    return word;
+/* Roman → Arabic */
+function romanToInt(roman) {
+  const map = {I:1,V:5,X:10,L:50,C:100,D:500,M:1000};
+  let num = 0;
+  let prev = 0;
+
+  roman = roman.toUpperCase();
+
+  for (let i = roman.length - 1; i >= 0; i--) {
+    const curr = map[roman[i]];
+    if (!curr) return roman;
+
+    if (curr < prev) num -= curr;
+    else num += curr;
+
+    prev = curr;
+  }
+
+  return num;
+}
+
+/* Arabic → Roman */
+function intToRoman(num) {
+  const map = [
+    [1000,'M'],[900,'CM'],[500,'D'],[400,'CD'],
+    [100,'C'],[90,'XC'],[50,'L'],[40,'XL'],
+    [10,'X'],[9,'IX'],[5,'V'],[4,'IV'],[1,'I']
+  ];
+
+  let result = '';
+
+  for (const [value, numeral] of map) {
+    while (num >= value) {
+      result += numeral;
+      num -= value;
+    }
+  }
+
+  return result.toLowerCase();
+}
+
+function normalizeWithNumbers(text) {
+
+  text = baseNormalize(text);
+
+  const words = text.split(' ');
+
+  const variants = new Set();
+
+  variants.add(text);
+
+  let arabic = words.map(w => {
+    if (/^[ivxlcdm]+$/.test(w)) {
+      return romanToInt(w);
+    }
+    return w;
   }).join(' ');
 
-  return text;
+  variants.add(arabic);
+
+  let roman = words.map(w => {
+    if (/^\d+$/.test(w)) {
+      return intToRoman(parseInt(w));
+    }
+    return w;
+  }).join(' ');
+
+  variants.add(roman);
+
+  return [...variants];
 }
 
 searchInput.addEventListener('input', function () {
-  const filter = normalize(this.value);
+
+  const queryVariants = normalizeWithNumbers(this.value);
 
   tags.forEach(tag => {
-    const text = normalize(tag.textContent);
 
-    tag.parentElement.style.display =
-      text.includes(filter) ? '' : 'none';
+    const tagVariants = normalizeWithNumbers(tag.textContent);
+
+    const match = queryVariants.some(q =>
+      tagVariants.some(t => t.includes(q))
+    );
+
+    tag.parentElement.style.display = match ? '' : 'none';
+
   });
+
 });
 </script>
