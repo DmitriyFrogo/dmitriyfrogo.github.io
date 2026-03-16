@@ -1,0 +1,38 @@
+---
+layout: page
+---
+
+<input
+  id="tag-search"
+  type="text"
+  placeholder="Поиск по играм..."
+  class="form-control mb-3"
+/>
+
+<div id="tags" class="d-flex flex-wrap ml-xl-2 mr-xl-2">
+{% assign tags = "" | split: "" %}
+{% for t in site.tags %}
+{% assign tags = tags | push: t[0] %}
+{% endfor %}
+{% assign sorted_tags = tags | sort_natural %}
+{% for t in sorted_tags %}
+<div>
+  <a class="tag" href="{{ t | slugify | url_encode | prepend: '/tags/' | append: '/' | relative_url }}">
+    {{ t }}<span class="text-muted">{{ site.tags[t].size }}</span>
+  </a>
+</div>
+{% endfor %}
+</div>
+
+<script>
+document.getElementById('tag-search').addEventListener('input', function () {
+  const filter = this.value.toLowerCase();
+  const tags = document.querySelectorAll('#tags .tag');
+
+  tags.forEach(tag => {
+    const text = tag.textContent.toLowerCase();
+    tag.parentElement.style.display =
+      text.includes(filter) ? '' : 'none';
+  });
+});
+</script>
