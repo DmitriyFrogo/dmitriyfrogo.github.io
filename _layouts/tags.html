@@ -2,14 +2,12 @@
 layout: page
 ---
 
-<div class="input-group mb-4">
-  <span class="input-group-text">
-    <i class="fas fa-search"></i>
-  </span>
+<div class="tag-search-wrapper mb-4">
+  <i class="fas fa-search"></i>
   <input
     id="tag-search"
     type="search"
-    class="form-control search-input"
+    class="form-control"
     placeholder="Поиск по играм..."
     autocomplete="off"
   >
@@ -30,6 +28,32 @@ layout: page
 {% endfor %}
 </div>
 
+<style>
+.tag-search-wrapper {
+  position: relative;
+  max-width: 600px;
+}
+
+.tag-search-wrapper i {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted-color);
+}
+
+#tag-search {
+  padding-left: 36px;
+  background: var(--card-bg);
+  border: 1px solid var(--main-border-color);
+  color: var(--text-color);
+}
+
+#tag-search::placeholder {
+  color: var(--text-muted-color);
+}
+</style>
+
 <script>
 const searchInput = document.getElementById('tag-search');
 const tags = document.querySelectorAll('#tags .tag');
@@ -37,8 +61,8 @@ const tags = document.querySelectorAll('#tags .tag');
 function normalize(text) {
   return text
     .toLowerCase()
-    .replace(/[-_]/g, ' ')   // дефисы → пробелы
-    .replace(/\s+/g, ' ')    // убрать лишние пробелы
+    .replace(/[-_]/g, ' ')
+    .replace(/\s+/g, ' ')
     .trim();
 }
 
