@@ -162,6 +162,7 @@ order: 2
 + [x] [SpongeBob SquarePants: The Cosmic Shake (PC)](/tags/spongebob-squarepants-the-cosmic-shake-pc)
 + [x] [Spyro the Dragon (PS1)](/tags/spyro-the-dragon-ps1)
 + [x] [Stars In The Trash (PC)](/tags/stars-in-the-trash-pc)
++ [x] [Starship Troopers: Ultimate Bug War! (PC)](/tags/starship-troopers-ultimate-bug-war-pc)
 + [x] [Stray (PC)](/tags/stray-pc)
 + [x] [Streets of Rage 4 (PC)](/tags/streets-of-rage-4-pc)
 + [x] [Sunset Riders (SMD)](/tags/sunset-riders-smd)
