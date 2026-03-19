@@ -154,6 +154,7 @@ order: 2
 + [x] [REVEIL (PC)](/tags/reveil-pc)
 + [x] [Road Redemption (PC)](/tags/road-redemption-pc)
 + [x] [Rockin' Kats (NES)](/tags/rockin-kats-nes)
++ [x] [Scritchy Scratchy (PC)](/tags/scritchy-scratchy-pc)
 + [x] [Sheepo (PC)](/tags/sheepo-pc)
 + [x] [Shift 87 (PC)](/tags/shift-87-pc)
 + [x] [Shovel Knight: Treasure Trove (PC)](/tags/shovel-knight-treasure-trove-pc)
