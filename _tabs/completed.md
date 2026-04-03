@@ -37,6 +37,7 @@ order: 2
 + [x] [Catie in MeowmeowLand (PC)](/tags/catie-in-meowmeowland-pc)
 + [x] [Celeste (PC)](/tags/celeste-pc)
 + [x] [Celeste Mario's Zap & Dash! (NES)](/tags/celeste-mario-s-zap-dash-nes)
++ [x] [Chasm (PC)](/tags/chasm-pc)
 + [x] [Choujin Sentai Jetman (NES)](/tags/choujin-sentai-jetman-nes)
 + [x] [Chromatic Conundrum (PC)](/tags/chromatic-conundrum-pc)
 + [x] [Chronicles of the Wolf (PC)](/tags/chronicles-of-the-wolf-pc)
