@@ -126,6 +126,7 @@ order: 2
 + [x] [Mickey's Adventure in Numberland (NES)](/tags/mickey-s-adventure-in-numberland-nes)
 + [x] [Mickey's Safari in Letterland (NES)](/tags/mickey-s-safari-in-letterland-nes)
 + [x] [Midnight Monitor: Aldercourt (PC)](/tags/midnight-monitor-aldercourt-pc)
++ [x] [Moomintroll: Winter's Warmth (PC)](/tags/moomintroll-winter-s-warmth-pc)
 + [x] [Moon Crystal (NES)](/tags/moon-crystal-nes)
 + [x] [Murdered: Soul Suspect (PC)](/tags/murdered-soul-suspect-pc)
 + [x] [Nalleland (NES)](/tags/nalleland-nes)
