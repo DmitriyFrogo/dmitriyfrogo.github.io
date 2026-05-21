@@ -108,6 +108,7 @@ order: 2
 + [x] [Journey To The Savage Planet (PC)](/tags/journey-to-the-savage-planet-pc)
 + [x] [Karateka (PC)](/tags/karateka-pc)
 + [x] [KARMA: The Dark World (PC)](/tags/karma-the-dark-world-pc)
++ [x] [Kuindzhi, 93 (PC)](/tags/kuindzhi-93-pc)
 + [x] [Kung Fu (NES)](/tags/kung-fu-nes)
 + [x] [Kyatto Ninden Teyandee (NES)](/tags/kyatto-ninden-teyandee-nes)
 + [x] [L'Abbaye des Morts (NES)](/tags/l-abbaye-des-morts-nes)
